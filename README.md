@@ -15,7 +15,7 @@ This is a modern and responsive tattoo & piercing studio website built with **HT
 <img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/5d9fe636-c5ad-462e-b4cf-76c1e1aba1bf" />
 <img width="1901" height="947" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/86b3aa8b-36ca-4b97-845c-dec8e9b8225e" />
 <img width="1895" height="941" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/9836e570-fb79-4579-abcb-634f554c2713" />
-<img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/463fa52c-3a8d-4557-99dd-d2aa4292b9fa" />
+<img width="1899" height="943" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/ce12ae70-31a9-427e-a677-2ea4138c0419" />
 <img width="1913" height="939" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/aa808e78-c281-4cdb-884e-8d3259234adb" />
 <img width="445" height="883" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/dd6d00d7-e100-451c-a80b-ea59d49f58fa" />
 <img width="449" height="889" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/002af303-d630-4021-ae4e-04de9196e4b4" />
