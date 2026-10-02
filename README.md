@@ -5,6 +5,10 @@ Modern and responsive tattoo &amp; piercing studio website featuring a stylish g
 
 This is a modern and responsive tattoo & piercing studio website built with **HTML, CSS, and JavaScript**. **Node.js** was used as part of the project environment for dependency management, development tooling, and running the application locally.
 
+### 🚀 Live Website
+
+🔗 **[View Live Website](https://obsidianbodyart.bg/)**
+
 ### 🎥 Demo
 
 <img width="1892" height="941" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/520d9b95-3bd0-40ce-a678-cdede216289e" />
